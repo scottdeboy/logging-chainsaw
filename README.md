@@ -11,3 +11,4 @@ https://issues.apache.org/jira/browse/CHAINSAW
 
 The current issue tracker is hosted by GitHub:
 https://github.com/apache/logging-chainsaw/issues
+
